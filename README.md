@@ -1,7 +1,7 @@
 # NYU_Payroll_Analysis
 
 
-The goal is to analyze and determine how the City's financial resources are distributed and how much of the budget is spent on overtime.
+The project goal is to analyze and determine how the City's financial resources are distributed and how much of the budget is spent on overtime.
 
 Utilized Google Big Query to conduct Data cleaning, Modelling, ML linear regression, and Data Visualization on NYU Payroll dataset.
 
