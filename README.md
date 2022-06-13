@@ -1,6 +1,6 @@
 # NYC_Payroll_Budget_Analysis
 
-## Uncovering city's budget spending on municipal employees' payments
+- Uncovering city's budget spending on municipal employees' payments
 
 ## Goal
 The project goal is to analyze and determine how the city's financial resources are distributed and how much of the budget is spent on overtime.
